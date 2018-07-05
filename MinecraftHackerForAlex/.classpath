@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="minecraftbyexample/testingarea/fluid/|minecraftbyexample/testingarea/" kind="src" path="src/main/java"/>
+	<classpathentry excluding="fluid/" kind="src" path="src/main/java/minecraftbyexample/testingarea"/>
+	<classpathentry kind="src" path="src/main/java/minecraftbyexample/testingarea/fluid"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
